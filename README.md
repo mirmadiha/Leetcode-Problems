@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
