@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -31,5 +32,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
