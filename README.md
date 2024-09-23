@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
