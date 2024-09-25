@@ -9,6 +9,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -71,4 +73,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
