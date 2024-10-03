@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -20,6 +21,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -35,11 +37,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,6 +64,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -84,4 +89,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
