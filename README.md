@@ -25,6 +25,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
@@ -48,6 +49,7 @@
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
