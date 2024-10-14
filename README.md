@@ -46,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
