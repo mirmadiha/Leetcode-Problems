@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -100,6 +101,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
