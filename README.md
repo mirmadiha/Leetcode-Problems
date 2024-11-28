@@ -114,6 +114,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -126,4 +127,8 @@
 | [0039-combination-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
