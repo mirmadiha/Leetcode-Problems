@@ -139,4 +139,8 @@
 | [0142-linked-list-cycle-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [sort-a-linked-list-of-0's-1's-and2's-GFG](https://github.com/mirmadiha/Leetcode-Problems/tree/main/sort-a-linked-list-of-0's-1's-and-2's) |
+| [check-if-circularly-linked-list-GFG](https://github.com/mirmadiha/Leetcode-Problems/tree/main/check-if-circularly-linked-list-GFG) |
+| [remove-duplicates-from-an-unsorted-linked-list-GFG](https://github.com/mirmadiha/Leetcode-Problems/tree/main/remove-duplicates-from-an-unsorted-linked-list-GFG) |
+| [remove-loop-in-a-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/main/remove-loop-in-a-linked-list) |
 <!---LeetCode Topics End-->
