@@ -28,7 +28,7 @@ public:
         }
 
         if (list1->val > list2->val) {
-        std::swap(list1, list2);
+            swap(list1, list2);
         }
         
         ListNode* curr1=list1;
