@@ -143,4 +143,5 @@
 | [check-if-circularly-linked-list-GFG](https://github.com/mirmadiha/Leetcode-Problems/tree/master/check-if-circularly-linked-list-GFG) |
 | [remove-duplicates-from-an-unsorted-linked-list-GFG](https://github.com/mirmadiha/Leetcode-Problems/tree/master/remove-duplicates-from-an-unsorted-linked-list-GFG) |
 | [remove-loop-in-a-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/remove-loop-in-a-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
