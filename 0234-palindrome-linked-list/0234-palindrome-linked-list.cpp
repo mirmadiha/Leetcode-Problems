@@ -22,10 +22,10 @@ public:
 
     bool isPalindrome(ListNode* head) {
         int length=lengthOfList(head);
-        vector<int> arr(length);
+        vector<int> arr;
         ListNode*current=head;
-        for(int i=0;i<length;i++){
-            arr[i]=current->val;
+        while(current!=NULL){
+            arr.push_back(current->val);
             current=current->next;
         }
 
