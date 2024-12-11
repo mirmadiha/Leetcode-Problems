@@ -9,35 +9,58 @@
  * };
  */
 class Solution {
-public:
-    int lengthOfList(ListNode* head){
-        ListNode* temp=head;
-        int count=0;
-        while(temp!=NULL){
-            temp=temp->next;
-            count++;
+    private:
+    ListNode* getMid(ListNode* head ) {
+        ListNode* slow = head;
+        ListNode* fast = head -> next;
+        
+        while(fast != NULL && fast-> next != NULL) {
+            fast = fast -> next -> next;
+            slow = slow -> next;
         }
-        return count;
+        
+        return slow;
+    }
+    ListNode* reverse(ListNode* head) {
+        
+        ListNode* curr = head;
+        ListNode* prev = NULL;
+        ListNode* next = NULL;
+        
+        while(curr != NULL) {
+            next = curr -> next;
+            curr -> next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
     }
 
+public:
     bool isPalindrome(ListNode* head) {
-        int length=lengthOfList(head);
-        vector<int> arr;
-        ListNode*current=head;
-        while(current!=NULL){
-            arr.push_back(current->val);
-            current=current->next;
+        if(head -> next == NULL) {
+            return true;
         }
 
-        int start=0;
-        int end=length-1;
-        while(start<=end){
-            if(arr[start]!=arr[end]){
-                return false;
+        ListNode* middle = getMid(head);
+        
+        ListNode* temp = middle -> next;
+        middle -> next = reverse(temp);
+        
+        ListNode* head1 = head;
+        ListNode* head2 = middle -> next;
+        
+        while(head2 != NULL) {
+            if(head2->val != head1->val) {
+                return 0;
             }
-            start++;
-            end--;
+            head1 = head1 -> next;
+            head2 = head2 -> next;
         }
+    
+        temp = middle -> next;
+        middle -> next = reverse(temp);
+        
         return true;
     }
 };
