@@ -144,4 +144,7 @@
 | [remove-duplicates-from-an-unsorted-linked-list-GFG](https://github.com/mirmadiha/Leetcode-Problems/tree/master/remove-duplicates-from-an-unsorted-linked-list-GFG) |
 | [remove-loop-in-a-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/remove-loop-in-a-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/mirmadiha/Leetcode-Problems/tree/main/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/main/0234-palindrome-linked-list) |
+| [0141-linked-list-cycle](https://github.com/mirmadiha/Leetcode-Problems/tree/main/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
