@@ -37,6 +37,7 @@
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -96,6 +98,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
@@ -137,6 +140,11 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
