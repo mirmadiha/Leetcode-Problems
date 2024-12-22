@@ -1,4 +1,4 @@
-<h1><a href="https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1">Delete Mid of a Stack</a></h1>
+<h1><a href="https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1" target="_blank">Delete Mid of a Stack</a></h1>
 
 Given a stack s, delete the middle element of the stack without using any additional data structure.
 
