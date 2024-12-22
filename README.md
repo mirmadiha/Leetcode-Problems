@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -71,6 +72,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mirmadiha/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
