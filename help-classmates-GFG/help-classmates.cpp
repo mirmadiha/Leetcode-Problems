@@ -11,7 +11,7 @@ class Solution{
                 st.pop();
             }
             
-            if(st.empty()){
+            if(st.empty()) {
                 ans[i]=-1;
             }
             else{
