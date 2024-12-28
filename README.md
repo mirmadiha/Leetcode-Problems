@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mirmadiha/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
