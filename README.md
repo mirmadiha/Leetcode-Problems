@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -31,6 +32,7 @@
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
