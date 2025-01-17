@@ -81,6 +81,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mirmadiha/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -165,9 +166,11 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
