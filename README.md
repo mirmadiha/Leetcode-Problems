@@ -73,6 +73,7 @@
 | [0020-valid-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mirmadiha/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -95,6 +96,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -173,4 +175,9 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
