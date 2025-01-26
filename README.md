@@ -77,6 +77,7 @@
 | [0443-string-compression](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mirmadiha/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3379-score-of-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
