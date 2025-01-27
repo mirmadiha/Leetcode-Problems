@@ -6,7 +6,7 @@ public:
             return;
         }
         swap(s[i],s[size-i-1]);
-        recursiveReverse(s,i+1,size);
+        recursiveReverse(s,++i,size);
     }
 
     void reverseString(vector<char>& s) {
