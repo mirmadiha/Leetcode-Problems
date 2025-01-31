@@ -1,22 +1,25 @@
 class Solution {
-    void getSubsets(vector<int>nums,int index,vector<int>output,vector<vector<int>> &ans){
-        if(index>=nums.size()){
-            ans.push_back(output);
-            return;
+public:
+
+    void formSubsets(vector<int>& nums ,vector<int>& ans, int i,vector<vector<int>>&result){
+        int size=nums.size();
+        if(i==size){
+            result.push_back(ans);
+            return ;
         }
 
-        getSubsets(nums,index+1,output,ans);
+        ans.push_back(nums[i]);
+        formSubsets(nums,ans,i+1,result);
 
-        int element=nums[index];
-        output.push_back(element);
-        getSubsets(nums,index+1,output,ans);
-    }
-public:
+        ans.pop_back();
+        formSubsets(nums,ans,i+1,result);
+
+    }     
+
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>ans;
-        vector<int>output;
-        int index=0;
-        getSubsets(nums,index,output,ans);
-        return ans;
+        vector<int>ans;
+        vector<vector<int>>result;
+        formSubsets(nums,ans,0,result);
+        return result;
     }
 };
