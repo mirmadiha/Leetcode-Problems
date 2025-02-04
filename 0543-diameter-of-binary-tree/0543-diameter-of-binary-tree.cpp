@@ -12,22 +12,26 @@
 class Solution {
 public:
 
-    int maxDepth(TreeNode* root){
+    pair<int,int>findDiameter(TreeNode* root){
         if(root==NULL){
-            return 0;
+            pair<int,int>p=make_pair(0,0);
+            return p;
         }
-        int leftHeight=maxDepth(root->left);
-        int rightHeight=maxDepth(root->right);
-        return 1+max(leftHeight,rightHeight);
+
+        pair<int,int>left=findDiameter(root->left);
+        pair<int,int>right=findDiameter(root->right);
+
+        int option1=left.first;
+        int option2=right.first;
+        int option3=left.second+right.second;
+
+        pair<int,int>ans;
+        ans.first=max(option1,max(option2,option3));
+        ans.second=max(left.second,right.second)+1;
+        return ans;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL){
-            return 0;
-        }
-        int option1=diameterOfBinaryTree(root->left);
-        int option2=diameterOfBinaryTree(root->right);
-        int option3=maxDepth(root->left)+maxDepth(root->right);
-        return max(option1,max(option2,option3));
+        return findDiameter(root).first;
     }
 };
