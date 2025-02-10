@@ -15,6 +15,7 @@ public:
         if(p==NULL && q==NULL){
             return true;
         }
+
         if(p==NULL && q!=NULL){
             return false;
         }
@@ -22,11 +23,10 @@ public:
             return false;
         }
 
-        bool left=isSameTree(p->left,q->left);
-        bool right=isSameTree(p->right,q->right);
-        bool value=p->val == q->val;
-
-        if(left && right && value){
+        bool leftCheck=isSameTree(p->left,q->left);
+        bool rightCheck=isSameTree(p->right,q->right);
+        bool value=p->val==q->val;
+        if(leftCheck && rightCheck && value){
             return true;
         }
         else{
