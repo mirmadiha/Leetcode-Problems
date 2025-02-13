@@ -12,7 +12,7 @@
 class Solution {
 public:
 
-    pair<int,int>diameter(TreeNode* root){
+     pair<int,int>diameter(TreeNode* root){
         if(root==NULL){
             pair<int,int>p={0,0};
             return p;
@@ -34,5 +34,6 @@ public:
     int diameterOfBinaryTree(TreeNode* root) {
         int result=diameter(root).first;
         return result;
-    }
+        }
+    
 };
