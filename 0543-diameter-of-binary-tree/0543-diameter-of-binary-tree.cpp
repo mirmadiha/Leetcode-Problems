@@ -12,28 +12,25 @@
 class Solution {
 public:
 
-     pair<int,int>diameter(TreeNode* root){
+    int height(TreeNode* root){
         if(root==NULL){
-            pair<int,int>p={0,0};
-            return p;
+            return 0;
         }
 
-        pair<int,int>left=diameter(root->left);
-        pair<int,int>right=diameter(root->right);
-
-        int option1=left.first;
-        int option2=right.first;
-        int option3=left.second+right.second;
-        pair<int,int>answer;
-        answer.first=max(option1,max(option2,option3));
-        answer.second=max(left.second,right.second)+1;
-        return answer;
-        
+        int left=height(root->left);
+        int right=height(root->right);
+        return max(left,right)+1;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        int result=diameter(root).first;
-        return result;
+        if(root==NULL){
+            return 0;
         }
-    
+
+        int option1=diameterOfBinaryTree(root->left);
+        int option2=diameterOfBinaryTree(root->right);
+        int option3=height(root->left)+height(root->right);
+        return max(option1,max(option2,option3));
+
+    }
 };
