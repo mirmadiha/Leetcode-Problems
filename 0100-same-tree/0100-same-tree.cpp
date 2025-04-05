@@ -15,22 +15,28 @@ public:
         if(p==NULL && q==NULL){
             return true;
         }
-
-        if(p==NULL && q!=NULL){
-            return false;
-        }
         if(p!=NULL && q==NULL){
             return false;
         }
 
-        bool leftCheck=isSameTree(p->left,q->left);
-        bool rightCheck=isSameTree(p->right,q->right);
-        bool value=p->val==q->val;
-        if(leftCheck && rightCheck && value){
-            return true;
-        }
-        else{
+        if(p==NULL && q!=NULL){
             return false;
         }
+
+        if(p->val!=q->val){
+            return false;
+        }
+
+
+        bool left=isSameTree(p->left,q->left);
+    
+        bool right=isSameTree(p->right,q->right);
+    
+        if(left && right){
+            return true;
+        }
+
+
+        return false;
     }
 };
