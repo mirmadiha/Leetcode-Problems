@@ -1,9 +1,5 @@
-Here's a well-structured `README.md` file for the **Lowest Common Ancestor in Binary Tree** problem:
-
----
-
-```markdown
 # Lowest Common Ancestor in Binary Tree
+```markdown
 
 ## Problem Statement
 
@@ -99,31 +95,3 @@ n1 = 5, n2 = 4
 - `1 ≤ node->data ≤ 10^5`
 - All node values are **unique**
 
----
-
-## Approach
-
-1. **Recursive Traversal**:
-   - Start from the root and search for `n1` and `n2` in left and right subtrees.
-   - If both sides return non-null, current node is the LCA.
-   - If only one side is non-null, propagate it upwards.
-
-2. **Base Conditions**:
-   - If root is `NULL`, return `NULL`.
-   - If root matches `n1` or `n2`, return root.
-
----
-
-## Time and Space Complexity
-
-- **Time Complexity**: `O(N)` where `N` is the number of nodes in the tree.
-- **Space Complexity**: `O(H)` where `H` is the height of the tree (due to recursion stack).
-
----
-
-## Tags
-
-`Binary Tree`, `Lowest Common Ancestor`, `Tree Traversal`, `Medium`
-```
-
-Let me know if you'd like to include the code or visualize the tree structures using diagrams.
