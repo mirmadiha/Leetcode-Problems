@@ -7,11 +7,10 @@ public:
             max_heap.push(nums[i]);
         }
 
-        while(!max_heap.empty()){
             for(int i=0;i<size;i++){
                 nums[i]=max_heap.top();
                 max_heap.pop();
-            }
+            
         }
         return nums[k-1];
     }
