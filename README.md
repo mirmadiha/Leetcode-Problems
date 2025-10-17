@@ -24,6 +24,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mirmadiha/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mirmadiha/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mirmadiha/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Tree
 |  |
 | ------- |
