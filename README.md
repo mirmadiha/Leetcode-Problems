@@ -79,6 +79,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [1078-remove-outermost-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mirmadiha/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3379-score-of-a-string](https://github.com/mirmadiha/Leetcode-Problems/tree/master/3379-score-of-a-string) |
 ## Stack
@@ -88,6 +89,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [1078-remove-outermost-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mirmadiha/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
