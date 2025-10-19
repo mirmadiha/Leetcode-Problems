@@ -1,25 +1,18 @@
-void insertElement(int x , stack<int> &St){
-        if(St.empty()){
-            St.push(x);
-            return;
+class Solution {
+  public:
+    void reverseStack(stack<int> &st) {
+        // code here
+        vector<int>nums;
+        while(!st.empty()){
+            nums.push_back(st.top());
+            st.pop();
+        }
+        for(int i=0;i<nums.size();i++){
+            swap(nums[i],nums[nums.size()-i-1]);
         }
         
-        int num=St.top();
-        St.pop();
-        insertElement(x , St);
-        St.push(num);
-    }
-    void Reverse(stack<int> &St){
-
-        if(St.empty()){
-            return ;
+        for(int i=0;i<nums.size();i++){
+            st.push(nums[i]);
         }
-    
-        int num=St.top();
-        St.pop();
-        
-        Reverse(St);
-        
-        insertElement(num,St);
-        
     }
+};
