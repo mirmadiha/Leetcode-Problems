@@ -1,22 +1,18 @@
-class Solution{
-public:
+// User function Template for C++
 
-    void solveProblem(stack<int>&st,int x,int count,int size){
-        if(count==size){
-            st.push(x);
-            return;
+class Solution {
+  public:
+    stack<int> insertAtBottom(stack<int> st, int x) {
+        int n=st.size();
+        int arr[n];
+        for(int i=n-1;i>=0;i--){
+            arr[i]=st.top();
+            st.pop();
         }
-        
-        int num=st.top();
-        st.pop();
-        solveProblem(st,x,count+1,size);
-        st.push(num);
-    }
-
-    stack<int> insertAtBottom(stack<int> st,int x){
-        int count=0;
-        int size=st.size();
-        solveProblem(st,x,count,size);
+        st.push(x);
+        for(int i=0;i<n;i++){
+            st.push(arr[i]);
+        }
         return st;
     }
 };
