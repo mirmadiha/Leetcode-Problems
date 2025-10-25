@@ -20,6 +20,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -90,6 +91,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mirmadiha/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
