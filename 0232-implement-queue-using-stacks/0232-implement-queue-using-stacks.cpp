@@ -5,8 +5,6 @@ public:
     stack<int>st2;
 
     MyQueue() {
-        stack<int>st1;
-        stack<int>st2;
     }
     
     void push(int x) {
