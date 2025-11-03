@@ -26,6 +26,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mirmadiha/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/mirmadiha/Leetcode-Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Binary Search
 |  |
 | ------- |
