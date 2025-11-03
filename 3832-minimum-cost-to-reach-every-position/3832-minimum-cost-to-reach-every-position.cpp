@@ -1,18 +1,21 @@
 class Solution {
 public:
     vector<int> minCosts(vector<int>& cost) {
-        vector<int>answer(cost.size());
-        answer[0]=cost[0];
-        int min=cost[0];
-        for(int i=1;i<cost.size();i++){
-            if(cost[i]<min){
-                min=cost[i];
-                answer[i]=min;
+         vector<int>ans;
+        ans.push_back(cost[0]);
+        int val = cost[0];
+        for(int i=1;i<cost.size();i++)
+        {
+            if(val<cost[i])
+            {
+                ans.push_back(val);
             }
-            else{
-                answer[i]=min;
+            else
+            {
+                val = cost[i];
+                ans.push_back(val);
             }
         }
-        return answer;
+        return ans;
     }
 };
