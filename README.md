@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1013-fibonacci-number) |
