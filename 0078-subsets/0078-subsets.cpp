@@ -1,25 +1,23 @@
 class Solution {
 public:
-
-    void formSubsets(vector<int>& nums ,vector<int>& ans, int i,vector<vector<int>>&result){
-        int size=nums.size();
-        if(i==size){
-            result.push_back(ans);
-            return ;
+    void subsequences(vector<int>& nums,int index,vector<int>arr,vector<vector<int>>&subsetArray){
+        int n=nums.size();
+        if(index>=n){
+            subsetArray.push_back(arr);
+            return;
         }
+        arr.push_back(nums[index]);
+        subsequences(nums,index+1,arr,subsetArray);
+        arr.pop_back();
+        subsequences(nums,index+1,arr,subsetArray);
+    }
 
-        ans.push_back(nums[i]);
-        formSubsets(nums,ans,i+1,result);
-
-        ans.pop_back();
-        formSubsets(nums,ans,i+1,result);
-
-    }     
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int>ans;
-        vector<vector<int>>result;
-        formSubsets(nums,ans,0,result);
-        return result;
+        int index=0;
+        vector<vector<int>>subsetArray;
+        vector<int>arr;
+        subsequences(nums,index,arr,subsetArray);
+        return subsetArray;
     }
 };
