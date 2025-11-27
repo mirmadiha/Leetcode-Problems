@@ -1,20 +1,17 @@
 class Solution {
 public:
 
-  bool checkPower(int n , int i ,unsigned long long num){
+  bool checkPower(int n ,unsigned long long num){
     if(num==n){
         return true;
     }
-    if(n==1){
-        return true;
-    }
-    if(i>n/2){
+    if(num>n || n<=0){
         return false;
     }
     num*=2;
-    return checkPower(n,i+1,num);
+    return checkPower(n,num);
   }
     bool isPowerOfTwo(int n) {
-        return checkPower(n,1,1);
+        return checkPower(n,1);
     }
 };
