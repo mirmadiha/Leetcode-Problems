@@ -25,6 +25,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mirmadiha/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -63,6 +64,7 @@
 | [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -133,6 +135,7 @@
 | [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,8 +268,21 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
