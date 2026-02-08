@@ -28,7 +28,6 @@ class Solution {
             temp->prev=after;
             before=temp;
             temp=after;
-            after=temp->next;
         }
         return before;
     }
