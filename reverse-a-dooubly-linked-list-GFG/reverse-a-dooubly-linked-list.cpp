@@ -20,15 +20,14 @@ class Solution {
             return head;
         }
         
-        Node* temp=head;
-        Node* before=nullptr;
-        while(temp!=nullptr){
-            Node* after=temp->next;
-            temp->next=before;
-            temp->prev=after;
-            before=temp;
-            temp=after;
+        Node* temp=nullptr;
+        Node* curr=head;
+        while(curr!=nullptr){
+            temp=curr->prev;
+            curr->prev=curr->next;
+            curr->next=temp;
+            curr=curr->prev;
         }
-        return before;
+        return temp->prev;
     }
 };
