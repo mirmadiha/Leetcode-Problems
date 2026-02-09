@@ -16,34 +16,19 @@ public:
        ListNode* l3 = new ListNode(0);
        ListNode* curr=l3;
        int carry =0; 
-        while(temp1!=nullptr && temp2!=nullptr){
-            int sum = ((temp1->val + temp2->val + carry));
-            carry = (temp1->val + temp2->val + carry)/10;
-
-            curr->next = new ListNode(sum%10);
+        while(temp1!=nullptr || temp2!=nullptr){
+            int sum = carry;
+            if(temp1) sum+=temp1->val;
+            if(temp2) sum+=temp2->val;
+            carry = sum/10;
+            ListNode* newNode=new ListNode(sum%10);
+            curr->next = newNode;
             curr=curr->next;
 
-            temp1=temp1->next;
-            temp2=temp2->next;
+            if(temp1)temp1=temp1->next;
+            if(temp2)temp2=temp2->next;
         } 
-        while(temp1!=nullptr){
-            int sum = ((temp1->val + carry));
-            carry = (temp1->val + carry)/10;
 
-            curr->next = new ListNode(sum%10);
-            curr=curr->next;
-
-            temp1=temp1->next;
-        }
-        while(temp2!=nullptr){
-            int sum = ((temp2->val) + carry);
-            carry = (temp2->val + carry)/10;
-
-            curr->next = new ListNode(sum%10);
-            curr=curr->next;
-
-            temp2=temp2->next;
-        }
         if (carry){
            curr->next = new ListNode(carry);
             curr=curr->next; 
