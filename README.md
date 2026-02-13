@@ -82,6 +82,7 @@
 | [0367-valid-perfect-square](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [0622-design-circular-queue](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |
