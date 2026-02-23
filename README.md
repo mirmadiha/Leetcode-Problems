@@ -73,6 +73,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -115,6 +117,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0268-missing-number) |
