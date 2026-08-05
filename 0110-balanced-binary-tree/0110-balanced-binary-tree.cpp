@@ -17,24 +17,19 @@ public:
         }
         int left = height(root->left);
         int right = height(root->right);
+
+        if(left==-1 ||right==-1){
+            return -1;
+        }
+        if(abs(left - right)>1){
+            return -1;
+        }
         return max(left,right)+1;
     }
     bool isBalanced(TreeNode* root) {
-        if(root == NULL){
-            return 1;
+        if(height(root)==-1){
+            return 0;
         }
-    
-        int left = height(root->left);
-        int right = height(root->right);
-        bool leftTree = isBalanced(root->left);
-        if(!leftTree){
-            return 0;
-        } 
-        bool rightTree = isBalanced(root->right);
-        if(!rightTree){
-            return 0;
-        } 
-
-        return abs(left - right)<=1;
+        return 1;
     }
 };
