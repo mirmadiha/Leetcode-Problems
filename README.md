@@ -298,4 +298,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
