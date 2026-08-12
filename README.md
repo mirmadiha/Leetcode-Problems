@@ -302,4 +302,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0069-sqrtx) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
