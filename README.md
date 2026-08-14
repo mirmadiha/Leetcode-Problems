@@ -160,6 +160,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -239,6 +240,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -251,6 +253,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -274,6 +277,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -305,5 +309,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
