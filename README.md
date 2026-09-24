@@ -243,6 +243,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -280,6 +281,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -311,4 +313,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/mirmadiha/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
